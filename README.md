@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-    <a href="https://daiyu.fun/">
+    <a href="https://yep.vin/">
     <img src="./w.svg" alt="Typing SVG" />
     </a>
 </div>
